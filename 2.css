@@ -33,7 +33,7 @@ headerprancipal img {
     height: 300px;
 }
 .headerprancipal nav {
-    background-color: antiquewhite;
+    background-color: #65a5e2;
     border-radius: 5px;
 }
 .headerprancipal nav ul {
@@ -55,7 +55,7 @@ headerprancipal img {
     height: 22px;
  }
  .headerprancipal nav ul li a:hover , .headerprancipal nav ul li a:active {
-    color:brown;
-    background:rgb(184, 132, 20);
+    color:#65a5e2;
+    background:#caa88c;
     text-shadow: 1px black;
  }
